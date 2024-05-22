@@ -15,7 +15,7 @@ public class newProjectNum {
         number2 = num2.nextInt();
         int resultSum = number1 + number2;
         System.out.println("The result of sum is: " + resultSum);
-        int resultDivision = number1/number2;
+        double resultDivision = (double) number1 /number2;
         System.out.println("The result of divition is: " + resultDivision);
     }
 }
