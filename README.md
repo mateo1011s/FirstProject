@@ -1,4 +1,5 @@
-          Universidad Central del Ecuador
+
+Universidad Central del Ecuador
     Facultad de Ingeniería y Ciencias Aplicadas
             Sistemas de la información
     Names: Iza Diego and Mateo Safla
