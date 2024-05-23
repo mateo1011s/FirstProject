@@ -6,4 +6,4 @@
                 Fist Program
     This program was made in IntelliJ and would help 
     us reading two numbers and performing the sum and division 
-     of the numbers enter, then it woulds show the results.
+     of the numbers entered, then it woulds show the results.
